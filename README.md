@@ -1,2 +1,2 @@
 # algorithms
-Folder of algorithms I've tested
+algorithm used for my Extended Essay
